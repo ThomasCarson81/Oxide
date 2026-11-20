@@ -14,10 +14,11 @@ Oxide is split across several repositories, each responsible for a different par
 * [syntax](https://github.com/ThomasCarson81/syntax) - Shared token, AST and language structures
 * [lexer](https://github.com/ThomasCarson81/lexer) - Lexical analysis and tokenisation
 * [parser](https://github.com/ThomasCarson81/parser) - Parsing source code into an AST
-* [semantic_analyser](https://github.com/ThomasCarson81/semantic_analyser) - Semantic analysis and validation
+* [semantic analyser](https://github.com/ThomasCarson81/semantic_analyser) - Semantic analysis and validation
 * [optimiser](https://github.com/ThomasCarson81/optimiser) - Code optimisation
 * [interpreter](https://github.com/ThomasCarson81/interpreter) - Interpreting Oxide programs
 * [compiler](https://github.com/ThomasCarson81/compiler) - Compiling Oxide into native code
+[standard library](https://github.com/ThomasCarson81/oxide_std) - The standard library which all Oxide programs can use
 
 
 ## Goals
