@@ -18,7 +18,7 @@ Oxide is split across several repositories, each responsible for a different par
 * [optimiser](https://github.com/ThomasCarson81/optimiser) - Code optimisation
 * [interpreter](https://github.com/ThomasCarson81/interpreter) - Interpreting Oxide programs
 * [compiler](https://github.com/ThomasCarson81/compiler) - Compiling Oxide into native code
-[standard library](https://github.com/ThomasCarson81/oxide_std) - The standard library which all Oxide programs can use
+* [standard library](https://github.com/ThomasCarson81/oxide_std) - The standard library which all Oxide programs can use
 
 
 ## Goals
